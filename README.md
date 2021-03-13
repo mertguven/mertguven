@@ -16,12 +16,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [PsikoApp](https://psikoapp.com).
-- 🌱 I’m currently learning more about Flutter.
-- 🤔 I’m looking for help with SpeakMatch(soon).
-- 📫 How to reach me: [![LinBadge](https://img.shields.io/badge/-MertGuven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-güven-8a0006177/)](https://www.linkedin.com/in/mert-güven-8a0006177/)
+- 🔭  I’m currently working on [PsikoApp](https://psikoapp.com).
+- 🌱  I’m currently learning more about Flutter.
+- 🤔  I’m looking for help with SpeakMatch(soon).
+- 📫  How to reach me: [![LinBadge](https://img.shields.io/badge/-MertGuven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-güven-8a0006177/)](https://www.linkedin.com/in/mert-güven-8a0006177/)
 [![GmBadge](https://img.shields.io/badge/-mertguven789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mertguven789@gmail.com)](mailto:mertguven789@gmail.com)
-- ⚡ Fun fact: Pop Smoke is the king of New York.
+- ⚡  Fun fact: Pop Smoke is the king of New York.
 
 
 **Languages and Tools:**  
