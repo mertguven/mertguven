@@ -16,8 +16,7 @@
 <br/>
 <br/>
 
-- 🔭  I’m currently working on [AppNation](https://appnation.co).
-- 🌱  I’m currently learning more about Flutter.
+- 🌱  I’m currently learning more about Flutter and Swift.
 - 🤔  I’m looking for help with SpeakMatch(soon).
 - 📫  How to reach me: [![LinBadge](https://img.shields.io/badge/-MertGuven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-güven-8a0006177/)](https://www.linkedin.com/in/mert-güven-8a0006177/)
 [![GmBadge](https://img.shields.io/badge/-mertguven789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mertguven789@gmail.com)](mailto:mertguven789@gmail.com)
