@@ -39,8 +39,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertguven&show_icons=true&theme=light&line_height=27" alt="Mert's github stats"/>
 </a>
 <br/>
-<a href="https://github.com/mertguven/Scoach">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mertguven&repo=Scoach&theme=light" />
+<a href="https://github.com/mertguven/speakmatch_v2">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mertguven&repo=speakmatch_v2&theme=light" />
 </a>
 
 <div align="center">
