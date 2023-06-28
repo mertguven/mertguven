@@ -16,15 +16,15 @@
 <br/>
 <br/>
 
-- 🌱  I’m currently learning more about Flutter and Swift.
-- 🤔  I’m looking for help with SpeakMatch(soon).
+- 🌱  I’m currently learning more about Swift.
+- 🤔  I’m looking for help with Prompotify.
 - 📫  How to reach me: [![LinBadge](https://img.shields.io/badge/-MertGuven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-güven-8a0006177/)](https://www.linkedin.com/in/mert-güven-8a0006177/)
 [![GmBadge](https://img.shields.io/badge/-mertguven789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mertguven789@gmail.com)](mailto:mertguven789@gmail.com)
 - ⚡  Fun fact: Pop Smoke is the king of New York.
 
 
 **Languages and Tools:**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
