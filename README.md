@@ -34,14 +34,11 @@
 <a href="https://github.com/mertguven">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertguven&theme=dark&hide_langs_below=1" />
 </a>
-
-<a href="https://github.com/mertguven">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mertguven&show_icons=true&theme=dark&line_height=27" alt="Mert's github stats"/>
-</a>
 <br/>
 <a href="https://github.com/mertguven/speakmatch_v2">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mertguven&repo=speakmatch_v2&theme=dark" />
 </a>
+<br/>
 <a href="https://github.com/mertguven/marvel_universe">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mertguven&repo=marvel_universe&theme=dark" />
 </a>
