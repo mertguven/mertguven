@@ -3,7 +3,7 @@
 <a href="https://twitter.com/merttgvvn">
   <img align="left" alt="Mert's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mert-güven-8a0006177/">
+<a href="https://linkedin.com/in/merttgvvn">
   <img align="left" alt="Mert's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/mertguven">
@@ -19,7 +19,7 @@
 - 🌱  I’m currently learning more about Swift.
 - 🤔  I’m looking for help with Prompotify.
 - 📫  How to reach me: [![LinBadge](https://img.shields.io/badge/-MertGuven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mert-güven-8a0006177/)](https://www.linkedin.com/in/mert-güven-8a0006177/)
-[![GmBadge](https://img.shields.io/badge/-mertguven789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mertguven789@gmail.com)](mailto:mertguven789@gmail.com)
+[![GmBadge](https://img.shields.io/badge/-info@mertguven.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@mertguven.net)](mailto:info@mertguven.net)
 - ⚡  Fun fact: Pop Smoke is the king of New York.
 
 
